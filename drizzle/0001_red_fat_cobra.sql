@@ -1,0 +1,1 @@
+ALTER TABLE "users" ADD COLUMN "favorite_color" varchar(255);
